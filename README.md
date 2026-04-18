@@ -48,8 +48,8 @@ A secure and scalable RESTful API built with **Node.js**, **Express**, and **Mon
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/TOT8894/GDG-Node-Simple-Auth-System.git
+cd GDG-Node-Simple-Auth-System
 npm install
 npm run dev
 ```
